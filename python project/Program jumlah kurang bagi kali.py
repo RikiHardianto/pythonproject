@@ -1,0 +1,11 @@
+num1 = input("Masukan Angka Pertama: ")
+num2 = input("Masukan Angka Kedua:")
+tambah = int(num1) + int(num2)
+kurang = int(num1) - int(num2)
+dikali = int(num1) * int(num2)
+Dibagi = int(num1) / int(num2)
+
+print("Tambah=",tambah)
+print("Kurang=",kurang)
+print("Dikali=",dikali)
+print("Dibagi=",Dibagi)
